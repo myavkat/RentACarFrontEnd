@@ -1,4 +1,4 @@
-const baseUrl = `https://localhost:44301`;
+const baseUrl = `https://myavkat-rentacar.herokuapp.com`;
 const carApi = baseUrl + `/api/cars`;
 const carImageApi = baseUrl + `/api/carImages`;
 const brandApi = baseUrl + `/api/brands`;
